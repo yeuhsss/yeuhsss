@@ -1,16 +1,13 @@
-### Hi there 👋
+# Greetings! 👋
 
-<!--
-**yeuhsss/yeuhsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Huey Chan, an aerospace engineering graduate from UC Davis. Welcome to my GitHub page.
 
-Here are some ideas to get you started:
+📖 Currently expanding my knowledge aerospace technology and computer modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Graduated in Aerospace Science and Engineering; skilled in coding (Python, MATLAB) and computer-aided design.
+
+👨‍🔬 Looking to start my career and always looking for exciting projects to work on.
+
+📫 Let's connect! Feel free to reach out: [Email](mailto:chanhuey1@gmail.com) | [LinkedIn](http://www.linkedin.com/in/huey-chan-978213229)
+
+Have a nice day! ✨
